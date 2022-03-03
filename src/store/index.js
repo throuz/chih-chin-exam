@@ -14,6 +14,9 @@ export default createStore({
     increment(state, payload) {
       state.count += payload;
     },
+    decrement(state) {
+      state.count--;
+    },
   },
   actions: {
     asyncIncrement(context) {
