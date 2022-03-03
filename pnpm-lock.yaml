@@ -13,6 +13,7 @@ specifiers:
   echarts: ^5.3.0
   eslint: ^7.32.0
   eslint-plugin-vue: ^8.0.3
+  image-conversion: ^2.1.1
   sass: ^1.32.7
   sass-loader: ^12.0.0
   vue: ^3.2.13
@@ -24,6 +25,7 @@ dependencies:
   axios: 0.26.0
   core-js: 3.21.1
   echarts: 5.3.0
+  image-conversion: 2.1.1
   vue: 3.2.31
   vue-echarts: 6.0.2_echarts@5.3.0+vue@3.2.31
   vue-router: 4.0.13_vue@3.2.31
@@ -3984,6 +3986,10 @@ packages:
     resolution: {integrity: sha512-CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==}
     engines: {node: '>= 4'}
     dev: true
+
+  /image-conversion/2.1.1:
+    resolution: {integrity: sha512-hnMOmP7q2jxA+52FZ+wHNhg3fdFRlgfngsQH2JQHEQkafY7tj/8F15e6Rv/RxDegc872jvyaRHwMbkTZK1Cjbg==}
+    dev: false
 
   /immutable/4.0.0:
     resolution: {integrity: sha512-zIE9hX70qew5qTUjSS7wi1iwj/l7+m54KWU247nhM3v806UdGj1yDndXj+IOYxxtW9zyLI+xqFNZjTuDaLUqFw==}
